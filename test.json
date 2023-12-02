@@ -1,7 +1,4 @@
 {
-  "key": "value",
-  "array": [1, 2, 3],
-  "nestedObject": {
-    "nestedKey": "nestedValue"
-  }
+  "name": "Maxim",
+  "age": 3
 }
